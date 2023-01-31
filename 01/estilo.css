@@ -1,0 +1,16 @@
+body {
+    font-family: "Arial";
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+.meu_nome{
+    text-align: center;
+}
+
+p {
+    background-color: blue;
+    color: white;
+}
