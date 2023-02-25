@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.janela-jogadores {
+    width: 469px;
+    height: 518px;
+}
+
+.fonte-formatada {
+    font-family: 'Rancho', serif;
+}
+
+.core{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.esconder {
+    visibility: hidden;
+}
