@@ -87,7 +87,7 @@
 <dl>
   
   <dt><h3>6.1. Licença do GitHub</h3></dt>
-    <dd><a href="">GPL - 3.0</a></dd>
+    <dd><a href="https://github.com/franckallyson/web-ifnmg/blob/main/LICENCE">GPL - 3.0</a></dd>
 </dl>
 </div>
 
